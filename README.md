@@ -1,6 +1,6 @@
 # Juanda's terminal
 
-![npm](https://img.shields.io/npm/v/juanda) ![npm collaborators](https://img.shields.io/npm/collaborators/juanda) ![NPM](https://img.shields.io/npm/l/juanda)
+<a href="https://www.npmjs.com/package/juanda">![npm](https://img.shields.io/npm/v/juanda)</a> ![npm collaborators](https://img.shields.io/npm/collaborators/juanda) ![NPM](https://img.shields.io/npm/l/juanda)
 
 This is a terminal built in Nodejs with [yargs](https://www.npmjs.com/package/yargs) that shows some information taht you can found on my CV.
 
