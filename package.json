@@ -1,14 +1,18 @@
 {
   "name": "juanda",
   "version": "1.0.0",
-  "description": "",
+  "description": "This library shows some information of Juan Daniel's CV by commands",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "keywords": [
+    "javascript",
+    "node",
+    "terminal"
+  ],
+  "author": "Juan Daniel Martínez Navarro",
+  "license": "MIT",
   "bin": "cli.js",
   "dependencies": {
     "yargs": "^17.0.1"
